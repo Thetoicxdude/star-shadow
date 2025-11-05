@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\page.tsx -> @/components/ThreeDModel\":{\"id\":\"app\\\\page.tsx -> @/components/ThreeDModel\",\"files\":[\"static/chunks/_app-pages-browser_src_components_ThreeDModel_tsx.js\"]}}"
